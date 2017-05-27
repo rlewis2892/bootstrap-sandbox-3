@@ -65,48 +65,51 @@
 					<div class="row">
 
 						<!-- Begin FancyBox Gallery Item -->
-						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+						<div class="col-xs-6 col-sm-3">
 							<a href="img/cat-1.jpg" class="thumbnail" data-fancybox="gallery" data-caption="Meow!">
 								<img src="img/cat-1.jpg" alt="Cat One" class="img-responsive">
 							</a>
 						</div>
 
 						<!-- Begin FancyBox Gallery Item -->
-						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+						<div class="col-xs-6 col-sm-3">
 							<a href="img/cat-2.jpg" class="thumbnail" data-fancybox="gallery" data-caption="Meow #2!">
 								<img src="img/cat-2.jpg" alt="Cat Two" class="img-responsive">
 							</a>
 						</div>
 
 						<!-- Begin FancyBox Gallery Item -->
-						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+						<div class="col-xs-6 col-sm-3">
 							<a href="img/cat-3.jpg" class="thumbnail" data-fancybox="gallery" data-caption="Meow #3!">
 								<img src="img/cat-3.jpg" alt="Cat Three" class="img-responsive">
 							</a>
 						</div>
 
 						<!-- Begin FancyBox Gallery Item -->
-						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+						<div class="col-xs-6 col-sm-3">
 							<a href="img/cat-4.jpg" class="thumbnail" data-fancybox="gallery" data-caption="Meow #4!">
 								<img src="img/cat-4.jpg" alt="Cat Four" class="img-responsive">
 							</a>
 						</div>
+					</div><!-- /.row-->
+
+					<div class="row">
 
 						<!-- Begin FancyBox Gallery Item -->
-						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+						<div class="col-xs-6 col-sm-3">
 							<a href="img/cat-5.jpg" class="thumbnail" data-fancybox="gallery" data-caption="Meow #5!">
 								<img src="img/cat-5.jpg" alt="Cat Five" class="img-responsive">
 							</a>
 						</div>
 
 						<!-- Begin FancyBox Gallery Item -->
-						<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
+						<div class="col-xs-6 col-sm-3">
 							<a href="img/cat-6.jpg" class="thumbnail" data-fancybox="gallery" data-caption="Meow #6!">
 								<img src="img/cat-6.jpg" alt="Cat Six" class="img-responsive">
 							</a>
 						</div>
 
-					</div><!-- /.row-->
+					</div><!--/.row-->
 				</div><!-- /.container -->
 			</main>
 		</div><!--/.sfooter-content-->
